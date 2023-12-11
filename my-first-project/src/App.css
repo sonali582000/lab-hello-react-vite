@@ -1,0 +1,43 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+}
+
+.main-page {
+  background-color: #1f2535;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 80px;
+}
+
+#title {
+  font-size: 4rem;
+  color: #fff;
+  padding: 0 40% 0 6%;
+  text-align: left;
+}
+
+#sub-heading {
+  color: #fff;
+  padding: 0 40% 0 6%;
+  text-align: left;
+}
+
+#btn-main-page {
+  background-color: #fff;
+  border-radius: 2px;
+  padding: 10px;
+  margin: 10px 0 5% -80%;
+}
+
+#section {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  padding: 10%;
+}
